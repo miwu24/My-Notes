@@ -12,7 +12,7 @@
 | MATH 596  | Individual Studies: <br> 1. DR (Dimensionality Reduction) <br> 2. TDA (Topological Data Analysis) | Spring 2017 | A     | 6     |
 | MATH 597  | Special Topics: Graduate Student Seminar                                                | Spring 2017 | A     | 3     |
 |           |                                                                                         |             |       |       |
-| MATH 596  | Individual Studies: 1. Machine Learning 2. TDA reading seminar                          | Fall 2016   | A     | 6     |
+| MATH 596  | Individual Studies: <br>1. Machine Learning <br>2. TDA reading seminar                  | Fall 2016   | A     | 6     |
 | EGEE 597  | Special Topics: Machine Learning for Engineering Problems                               | Fall 2016   | LD    | 3     |
 | MATH 517  | Probability Theory                                                                      | Fall 2016   | A     | 3     |
 |           |                                                                                         |             |       |       |
@@ -21,5 +21,5 @@
 | MATH 596  | Individual Studies: Advanced Topics in Algebraic Topology                               | Spring 2016 | A     | 3     |
 |           |                                                                                         |             |       |       |
 | MATH 533  | Lie Theory I                                                                            | Fall 2015   | A     | 3     |
-| MATH 582  | Introduction to C*Algebras                                                              | Fall 2015   | A     | 3     |
+| MATH 582  | Introduction to C^starAlgebras                                                          | Fall 2015   | A     | 3     | 
 | MATH 597C | Special Topics: Applied Algebraic Topology                                              | Fall 2015   | A     | 3     |
