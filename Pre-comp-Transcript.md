@@ -1,8 +1,5 @@
 | Course    | Description                                                                             | Term        | Grade | Units |
 |-----------|-----------------------------------------------------------------------------------------|-------------|-------|-------|
-| MATH 601  | Ph D Dissertation Full-Time                                                             | Spring 2019 |       | 0     |
-| MATH 601  | Ph D Dissertation Full-Time                                                             | Fall 2018   | R     | 0     |
-|           |                                                                                         |             |       |       |
 | MATH 596  | Individual Studies: Theoretical Statistics and Stochastic Calculus                      | Spring 2018 | A     | 3     |
 | MATH 597  | Special Topics: Applied Algebraic Topology                                              | Spring 2018 | A     | 3     |
 | MATH 596  | Individual Studies: Riemannian Manifolds and Manifold Learning                          | Spring 2018 | A     | 3     |
