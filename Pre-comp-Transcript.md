@@ -9,7 +9,7 @@
 | MATH 596  | Individual Studies: Theoretical Machine Learning                                        | Fall 2017   | A     | 3     |
 |           |                                                                                         |             |       |       |
 | MATH 528  | Differentiable Manifolds                                                                | Spring 2017 | A     | 3     |
-| MATH 596  | Individual Studies: 1. DR (Dimensionality Reduction) 2. TDA (Topological Data Analysis) | Spring 2017 | A     | 6     |
+| MATH 596  | Individual Studies: <br> 1. DR (Dimensionality Reduction) <br> 2. TDA (Topological Data Analysis) | Spring 2017 | A     | 6     |
 | MATH 597  | Special Topics: Graduate Student Seminar                                                | Spring 2017 | A     | 3     |
 |           |                                                                                         |             |       |       |
 | MATH 596  | Individual Studies: 1. Machine Learning 2. TDA reading seminar                          | Fall 2016   | A     | 6     |
