@@ -10,7 +10,7 @@ For easy reference, I list the topics of my notes below according to their relev
 * **Statistics**: Winter 2017, Spring 2018
 
 ### Deep Learning and Neural Network
-* **Deep Learning with Keras**: Spring 2019 (Edx C
+* **Deep Learning with Keras**: Spring 2019 (Edx Course)
 
 ### Stochastic Calculus and Time Series Analysis
 * **Stochastic Processes**: Spring 2017
