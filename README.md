@@ -21,13 +21,15 @@ For easy reference, I list the topics of my notes below according to their relev
 * **Probability Theory (measure theory based)**: Spring 2016, Fall 2016 (Course)
 * **Measure Theory (Real Analysis)**: Spring 2016
 
+### Nonlinear Dimensionality Reduction (Manifold Learning)
+* **Nonlinear Dimensionality Reduction (Manifold Learning)**: Spring 2017, Spring 2018, Fall 2018
+
 ### Applied Topology, Topological Data Analysis, and Algebraic Topology
 * **Topological Data Analysis**: Spring 2017
 * **Applied Algebraic Topology**: Fall 2015 (Course), Spring 2018 (Course)
 * **Algebraic Topology**: Spring 2016
 
-### Manifold Learning, Riemannian Manifolds and Differentiable Manifolds
-* **Nonlinear Dimensionality Reduction (Manifold Learning)**: Spring 2017, Spring 2018, Fall 2018
+### Riemannian Manifolds and Differentiable Manifolds
 * **Riemannian Manifolds**: Spring 2018
 * **Differentiable Manifolds**: Spring 2017 (Course)
 
