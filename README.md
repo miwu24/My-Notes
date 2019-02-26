@@ -16,7 +16,11 @@ For easy reference, I list the topics of my notes below according to their relev
 ### Stochastic Calculus and Time Series Analysis
 * **Stochastic Processes**: Spring 2017
 * **Stochastic Calculus**: Spring 2018
+* **Stochastic Differential Equations**: Spring 2019 
 * **Applied Time Series Analysis**: Spring 2019 (Coursera Course)
+
+### Convex Optimizatoin/Analysis/Geometry, Linear Programming
+* **Theories behind Convex Optimization and Linear Programming**: Spring 2019
 
 ### Probability Theory and Measure Theory
 * **Probability Theory (measure theory based)**: Spring 2016, Fall 2016 (Course)
