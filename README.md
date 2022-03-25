@@ -12,6 +12,7 @@ For easy reference, I list the topics of my notes below according to their relev
 ### Deep Learning and Neural Network
 * **Deep Learning with Keras**: Spring 2019 (Edx Course)
 * **Deep Learning**: Fall 2017 (IST Course)
+* **Deep Learning Specialization**: Summer 2020 (Coursera 5-Course Specialization)
 
 ### Stochastic Calculus and Time Series Analysis
 * **Stochastic Processes**: Spring 2017
