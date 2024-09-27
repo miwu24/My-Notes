@@ -21,5 +21,5 @@
 | MATH 596  | Individual Studies: Advanced Topics in Algebraic Topology                               | Spring 2016 | A     | 3     |
 |           |                                                                                         |             |       |       |
 | MATH 533  | Lie Theory I                                                                            | Fall 2015   | A     | 3     |
-| MATH 582  | Introduction to C^starAlgebras                                                          | Fall 2015   | A     | 3     | 
+| MATH 582  | Introduction to C^star Algebras                                                          | Fall 2015   | A     | 3     | 
 | MATH 597C | Special Topics: Applied Algebraic Topology                                              | Fall 2015   | A     | 3     |
